@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BH_SketchFlow", "BH_SketchFlow\BH_SketchFlow.csproj", "{ee157cdd-3999-411d-b3d7-5978acaffab4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BH_SketchFlowScreens", "BH_SketchFlow\BH_SketchFlowScreens\BH_SketchFlowScreens.csproj", "{ec81f3ab-5586-4c57-8594-1850517a1425}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EC81F3AB-5586-4C57-8594-1850517A1425}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EC81F3AB-5586-4C57-8594-1850517A1425}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EC81F3AB-5586-4C57-8594-1850517A1425}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EC81F3AB-5586-4C57-8594-1850517A1425}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EE157CDD-3999-411D-B3D7-5978ACAFFAB4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EE157CDD-3999-411D-B3D7-5978ACAFFAB4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EE157CDD-3999-411D-B3D7-5978ACAFFAB4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EE157CDD-3999-411D-B3D7-5978ACAFFAB4}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
